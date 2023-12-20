@@ -19,3 +19,9 @@ we invite you to join in the discussions here.  we try to check-in at least once
 
 ## repositories
 each of our objectives or projects will have its own repository with associated wiki.
+
+### tag
+truly american genocide is focused on the ongoing bluegrass genocide 
+* [wiki](https://github.com/CreatorsMission23/tag/wiki)
+* [discussion](https://github.com/CreatorsMission23/tag/discussions)
+* [repository](https://github.com/CreatorsMission23/tag)
