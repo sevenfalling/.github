@@ -17,6 +17,7 @@ we are servants of the Creator, actual direct-reports, however we do not have a 
 each of our objectives or projects will have its own repository with associated wiki.
 
 ### ringing_bell
+* [README](https://github.com/CreatorsMission23/ringing_bell)
 * [wiki](https://github.com/CreatorsMission23/ringing_bell/wiki)
 * [discussions](https://github.com/CreatorsMission23/ringing_bell/discussions)
   
