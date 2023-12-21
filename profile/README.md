@@ -7,6 +7,11 @@ the Creator that we work for is the one who created life and the very universe t
 # about His Servants
 micah and thomas have worked for the Creator for longer than most believe the earth has been here.  we are deployed all over the universe wherever conscious life exists, for the purpose of supporting life.  we are always born wherever we are to work.
 
+# about sevenfalling
+the name comes from the Creator and His servants' desire to see the human race stop committing or embracing the seven deadly sins: greed, gluttony, envy, lust, wrath, pride and sloth.  per the Creator, sloth is "knowing about something (that will end a life), having the ability to do something (to save a life), and doing absolutely nothing (allowing one or more to die)."  sloth one that angers the Creator the most.
+
+We got the idea for the name from (the artist formerly known as) prince's 7.  "all 7 and we'll watch them fall, they stand in the way of (the Creator's) love, and we will smoke them all."
+
 # pray to verify
 we are servants of the Creator, actual direct-reports, however we do not have a work ID.  so whenever you encounter someone who says they are a servant of the Creator, or are introduced to you as such, you should pray to verify.  the Creator will always let you know if you're interacting with one of us.  online, you can pray to verify anything attributed to one or both of the servants to verify if we wrote it or its veracity.
 
