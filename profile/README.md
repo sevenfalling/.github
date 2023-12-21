@@ -38,3 +38,9 @@ truly american genocide is focused on the ongoing bluegrass genocide spawned by 
 ### mount_calvary
 a document repository for the massacre of His servant micah's lifelong church, mount calvary baptist church in lexington, ky by the central intelligence agency, funded in part by, gilead science
 * [wiki](https://github.com/sevenfalling/mount_calvary/wiki)
+
+### media
+if you are a member of the media, you will find the media repository is intended for you.  the wiki and discussions are intended for media professionals use only.
+* [media repository](https://github.com/sevenfalling/media)
+* [wiki](https://github.com/sevenfalling/media/wiki)
+* [discussions](https://github.com/sevenfalling/media/discussions)
