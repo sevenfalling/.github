@@ -11,7 +11,11 @@ when we, His servants, suggest that you "pray to verify" anything it is **only**
 
 the Creator is the **only one** that can hear prayer and the **only one** that can answer prayer--by making you feel, think, or do anything.  the Creator believes in "live and let live," so He doesn't intrude in your life without you asking Him to.
 
-we ask you to simply pray (or think): "is this your servant?" if you think you may be interacting with one of us (we are the only two He has); or if you are receiving information purportedly from us or anything we are working on, you can pray (or think): "it this true?"  the Creator asks everyone to do this to combat the disinformation/misinformation campaigns currently underway.
+we ask you to simply pray (or think): *"is this your servant?"* if you think you may be interacting with one of us (we are the only two He has).
+
+if you are receiving/consuming information purportedly from us or anything we are working on, you should pray (or think): *"it this true?"*  
+
+**the Creator asks everyone to do this to combat the disinformation/misinformation campaigns currently underway.**
 
 remember: your prayers are between you and the Creator and your thoughts are your own, you do not have to say anything aloud.  **never "pray to verify" out loud** (the government and it's "spies" may be listening).
 
