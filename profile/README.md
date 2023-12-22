@@ -19,42 +19,37 @@ if you are receiving/consuming information purportedly from us or anything we ar
 
 remember: your prayers are between you and the Creator and your thoughts are your own, you do not have to say anything aloud.  **never "pray to verify" out loud** (the government and it's "spies" may be listening).
 
-# about His Servants
-micah and thomas have worked for the Creator for longer than most believe the earth has been here.  we are deployed all over the universe wherever conscious life exists and its continued existence is threatened.  we are only deployed for the purpose of supporting and/or protecting life and we are always born wherever we are to work--we are 100% human.
-
 # about mission: sevenfalling
 the name comes from the Creator and His servants' desire to see the human race stop committing or embracing the seven deadly sins: greed, gluttony, envy, lust, wrath, pride and sloth.  per the Creator, sloth is "knowing about something (that will end a life), having the ability to do something (to save a life), and doing absolutely nothing (allowing one or more to die)."  sloth one that angers the Creator the most.
 
-We got the idea for the name from (the artist formerly known as) prince's 7.  "all 7 and we'll watch them fall, they stand in the way of (the Creator's) love, and we will smoke them all." prince is micah's cousin.
+We got the idea for the name from (the artist formerly known as) prince's 7.  "all 7 and we'll watch them fall, they stand in the way of (the Creator's) love, and we will smoke them all." prince is micah's cousin.\
 
-## [discussions](https://github.com/orgs/sevenfalling/discussions)
+## mission wiki
+you can learn more about the Creator, His servants, what our objectives for the mission and other relevant information on our wiki. (coming back online later today)
+
+## [mission discussions](https://github.com/orgs/sevenfalling/discussions)
 this discussion forum is intended to only cover the overall mission.  we may have a dedicated repository for any particular objective, see the list below.
-
-# don't be fooled
-we are servants of the Creator, actual direct-reports, however we do not have a work identification badges.  so whenever you encounter someone who says they are a servant of the Creator, or are introduced to you as such, you should pray to verify.  the Creator will always let you know if you're interacting with one of us.  online, you can pray to verify anything attributed to one or both of the servants to verify if we wrote it or its veracity.
-
-
-
-# navigation
-* [discussions](https://github.com/orgs/sevenfalling/discussions)
-  
-## repositories
+ 
+## mission repositories
 each of our objectives or projects will have its own repository with associated wiki.
 
 ### [ringing_bell](https://github.com/sevenfalling/ringing_bell)
 * [wiki](https://github.com/sevenfalling/ringing_bell/wiki)
 * [discussions](https://github.com/sevenfalling/ringing_bell/discussions)
   
+### [mount_calvary](https://github.com/sevenfalling/mount_calvary)
+a document repository for the massacre of His servant micah's lifelong church, mount calvary baptist church in lexington, ky by the central intelligence agency
+* [wiki](https://github.com/sevenfalling/mount_calvary/wiki)
+
 ### [tag](https://github.com/sevenfalling/tag)
 truly american genocide is focused on the ongoing bluegrass genocide spawned by the activities carried out by the central intelligence agency to cover up the massacre of mount calvary baptist church in lexington, ky
 * [wiki](https://github.com/sevenfalling/tag/wiki)
 * [discussion](https://github.com/sevenfalling/tag/discussions)
 
-### [mount_calvary](https://github.com/sevenfalling/mount_calvary)
-a document repository for the massacre of His servant micah's lifelong church, mount calvary baptist church in lexington, ky by the central intelligence agency
-* [wiki](https://github.com/sevenfalling/mount_calvary/wiki)
-
 ### [media](https://github.com/sevenfalling/media)
 if you are a member of the media, you will find the media repository is intended for you.  the wiki and discussions are intended for media professionals use only.
 * [wiki](https://github.com/sevenfalling/media/wiki)
 * [discussions](https://github.com/sevenfalling/media/discussions)
+
+# press & media information
+information for journalists and other media professionals is located [here](https://github.com/sevenfalling/media).
