@@ -1,4 +1,4 @@
-# we know... you felt it!
+# did you feel the earth move?
 our Boss, the Creator intended for you to feel it. see the ringing_bell repository below.
 
 # welcome
