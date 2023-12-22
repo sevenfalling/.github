@@ -24,8 +24,8 @@ the name comes from the Creator and His servants' desire to see the human race s
 
 We got the idea for the name from (the artist formerly known as) prince's 7.  "all 7 and we'll watch them fall, they stand in the way of (the Creator's) love, and we will smoke them all." prince is micah's cousin.\
 
-## mission wiki
-you can learn more about the Creator, His servants, what our objectives for the mission and other relevant information on our wiki. (coming back online later today)
+## [mission wiki](https://github.com/sevenfalling/mission23/wiki)
+you can learn more about the Creator, His servants, what our objectives for the mission and other relevant information on our wiki. (note: currently moving everything from mission23 which requires editing of links, etc.  please be patient with me, i am under **constant** attack. -m.)
 
 ## [mission discussions](https://github.com/orgs/sevenfalling/discussions)
 this discussion forum is intended to only cover the overall mission.  we may have a dedicated repository for any particular objective, see the list below.
