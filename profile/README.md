@@ -38,6 +38,7 @@ this discussion forum is intended to only cover the overall mission.  we may hav
 each of our objectives or projects will have its own repository with associated wiki.
 
 ### [ringing_bell](https://github.com/sevenfalling/ringing_bell)
+this repository holds the wiki and discussions regarding the *Ringing of the Bell* (the shaking that may have led you here).
 * [wiki](https://github.com/sevenfalling/ringing_bell/wiki)
 * [discussions](https://github.com/sevenfalling/ringing_bell/discussions)
   
