@@ -20,9 +20,13 @@ if you are receiving/consuming information purportedly from us or anything we ar
 remember: your prayers are between you and the Creator and your thoughts are your own, you do not have to say anything aloud.  **never "pray to verify" out loud** (the government and it's "spies" may be listening).
 
 # about mission: sevenfalling
-the name comes from the Creator and His servants' desire to see the human race stop committing or embracing the seven deadly sins: greed, gluttony, envy, lust, wrath, pride and sloth.  per the Creator, sloth is "knowing about something (that will end a life), having the ability to do something (to save a life), and doing absolutely nothing (allowing one or more to die)."  sloth one that angers the Creator the most.
+the name comes from the Creator and His servants' desire to see the human race stop committing or embracing the seven deadly sins: greed, gluttony, envy, lust, wrath, pride and sloth.  
 
-We got the idea for the name from (the artist formerly known as) prince's 7.  "all 7 and we'll watch them fall, they stand in the way of (the Creator's) love, and we will smoke them all." prince is micah's cousin.\
+per the Creator, sloth is "knowing about something (that will end a life), having the ability to do something (to save a life), and doing absolutely nothing (allowing one or more to die)."  sloth one that angers the Creator the most.
+
+we got the idea for the name from (the artist formerly known as) prince's song "7".  
+*"all 7 and we'll watch them fall, they stand in the way of (the Creator's) love, and we will smoke them all."* 
+prince is micah's cousin.
 
 ## [mission wiki](https://github.com/sevenfalling/mission23/wiki)
 you can learn more about the Creator, His servants, what our objectives for the mission and other relevant information on our wiki. (note: currently moving everything from mission23 which requires editing of links, etc.  please be patient with me, i am under **constant** attack. -m.)
