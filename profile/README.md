@@ -47,7 +47,7 @@ a document repository for the massacre of His servant micah's lifelong church, m
 * [wiki](https://github.com/sevenfalling/mount_calvary/wiki)
 
 ### [tag](https://github.com/sevenfalling/tag)
-truly american genocide is focused on the ongoing bluegrass genocide spawned by the activities carried out by the central intelligence agency to cover up the massacre of mount calvary baptist church in lexington, ky
+this repository will used to gather and distribute intelligence about the The AIDS-cure Genocide started by Gilead Sciences which includes the CIA's massacres of houses of worship.
 * [wiki](https://github.com/sevenfalling/tag/wiki)
 * [discussion](https://github.com/sevenfalling/tag/discussions)
 
