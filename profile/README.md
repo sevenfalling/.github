@@ -5,19 +5,7 @@ our Boss, the Creator intended for you to feel it. see the [ringing_bell](https:
 this is the github organization for Creator's mission number 23 for life on earth.  this organization, and it's associated repositories, is maintained by the Servants of the Creator and will be the primary online presence for the Servants of the Creator for the duration of the Creators mission number 23.
 
 ## about the Creator, His servants, prayer and religion
-the Creator that we work for is the one who created life and the very universe that we all live in.  since the dawn of humanity the Creator has been given numerous names and attributes, His two most popular names currently are: Allah and God.  **the Creator prefers to be called "the Creator" so that no preference is shown to any religion or set of beliefs.**  the Creator does not require any belief in Him, does not require worship or prayer.  we do ask that you always use a capital-C when referring to Him out of respect and for disambiguation purposes.
-
-when we, His servants, suggest that you "pray to verify" (or #praytoverify) anything it is **only** to ask Him to help you know if you're getting information from one of us (His servants) and/or if it is the truth.  we often handle matters that upset the status quo.  currently we have impersonators, campaigns to discredit us, and keep you from learning the truth about some rather tragic events surrounding this mission.  
-
-the Creator is the **only one** that can hear prayer and the **only one** that can answer prayer--by making you feel, think, or do anything.  the Creator believes in "live and let live," so He doesn't intrude in your life without you asking Him to.
-
-we ask you to simply pray (or think): *"is this your servant?"* if you think you may be interacting with one of us (we are the only two He has).
-
-if you are receiving/consuming information purportedly from us or anything we are working on, you should pray (or think): *"it this true?"*  
-
-**the Creator asks everyone to do this to combat the disinformation/misinformation campaigns currently underway and no other reason.**
-
-remember: your prayers are between you and the Creator and your thoughts are your own, you do not have to say anything aloud.  **never "pray to verify" out loud** (the US government or it's "spies" may be listening).
+sevenfalling is not a religious organization, nor do We endorse any particular religion or set of beliefs.  when We ask you to #praytoverify it is only to combat mis-information campaigns underway by the c.i.a. and u.s. federal government.  [take a few moments to learn more about the Creator, His servants, prayer and religion](https://github.com/sevenfalling/mission23/wiki/about-the-Creator,-His-servants,-prayer-and-religion).
 
 # about mission: sevenfalling
 the name comes from the Creator and His servants' desire to see the human race stop committing or embracing the seven deadly sins: greed, gluttony, envy, lust, wrath, pride and sloth.  
