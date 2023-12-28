@@ -35,7 +35,7 @@ you can learn more about the Creator, His servants, what our objectives for the 
 this discussion forum is intended to only cover the overall mission.  we may have a dedicated repository for any particular objective, see the list below.
  
 ## mission repositories
-each of our objectives or projects will have its own repository with associated wiki.
+each of our objectives or projects will have its own repository with associated wiki and discussions (ordered by current priority).
 
 ### [ringing_bell](https://github.com/sevenfalling/ringing_bell)
 this repository holds the wiki and discussions regarding the *Ringing of the Bell* (the shaking that may have led you here).
@@ -47,9 +47,14 @@ a document repository for the massacre of His servant micah's lifelong church, m
 * [wiki](https://github.com/sevenfalling/mount_calvary/wiki)
 
 ### [tag](https://github.com/sevenfalling/tag)
-this repository will used to gather and distribute intelligence about the The AIDS-cure Genocide started by Gilead Sciences which includes the CIA's massacres of houses of worship.
+this repository will used to gather and distribute intelligence about the The AIDS-cure Genocide started by Gilead Sciences which includes the cia's massacres of houses of worship.
 * [wiki](https://github.com/sevenfalling/tag/wiki)
 * [discussion](https://github.com/sevenfalling/tag/discussions)
+
+### [cia](https://github.com/sevenfalling/cia)
+this repository holds information about the central intelligence agency, a us-based company based in langley, virginia.
+* [wiki](https://github.com/sevenfalling/cia/wiki)
+* [discussion](https://github.com/sevenfalling/cia/discussions)
 
 ### [media](https://github.com/sevenfalling/media)
 if you are a member of the media, you will find the media repository is intended for you.  the wiki and discussions are intended for media professionals use only.
