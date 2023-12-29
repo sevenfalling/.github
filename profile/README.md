@@ -1,9 +1,8 @@
 # welcome
 this is the github organization for Creator's mission number 23 for life on earth.  this organization, and it's associated repositories, is maintained by the Servants of the Creator and will be the primary online presence for the Servants of the Creator for the duration of the Creators mission number 23.
 
-> [!IMPORTANT]
-> We encourage every visitor to #PrayToVerify everything they read here on sevenfalling, and to #praytoverify any information received elsewhere about any topics discussed here.
-> [Take a few moments to learn more about the Creator, His servants, prayer and religion](https://github.com/sevenfalling/mission23/wiki/about-the-Creator,-His-servants,-prayer-and-religion).
+> [!TIP]
+> if you find something hard to believe simply #praytoverify.  uncomfortable? take a few moments to learn more about the Creator, His servants, prayer and religion, [here](https://github.com/sevenfalling/mission23/wiki/about-the-Creator,-His-servants,-prayer-and-religion).
 
 ***
 # did you feel the earth move?
