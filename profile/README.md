@@ -33,7 +33,7 @@ you can learn more about the Creator, His servants, what our objectives for the 
 this discussion forum is intended to only cover the overall mission.  we may have a dedicated repository for any particular objective, see the list below.
  
 ## mission repositories
-each of our objectives or projects will have its own repository with associated wiki and discussions (ordered by current priority).
+each of our objectives or projects will have its own repository with associated wiki and discussions (ordered by current priority).  repositories are not created until the objective or task is started.
 
 ### [ringing_bell](https://github.com/sevenfalling/ringing_bell)
 this repository holds the wiki and discussions regarding the *Ringing of the Bell* (the shaking that may have led you here).
