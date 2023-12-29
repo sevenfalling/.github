@@ -23,10 +23,8 @@ we got the idea for the name from (the artist formerly known as) prince's song "
 *"all 7 and we'll watch them fall, they stand in the way of (the Creator's) love, and we will smoke them all."* 
 prince is micah's cousin.
 
-## mission23 github organization statement
-the github.com/mission23 organization was compromised, the only access keys for it (on an iphone) were stolen at gunpoint.  github.com/sevenfalling is now the home of the Creator's mission number 23 for life on earth (or "mission23").  
-
-always #praytoverify anyone claiming to be one of His servants, anything attributed to one of His servants and any online presence claiming to be administered by His servants (including ANY on github).
+> [!WARNING]
+> the github.com/mission23 organization was compromised, the only access keys for it (on an iphone) were stolen at gunpoint.  github.com/sevenfalling is now the home of the Creator's mission number 23 for life on earth (or "mission23").  always #praytoverify anyone claiming to be one of His servants, anything attributed to one of His servants and any online presence claiming to be administered by His servants (including ANY on github).
 
 ## [mission wiki](https://github.com/sevenfalling/mission23/wiki)
 you can learn more about the Creator, His servants, what our objectives for the mission and other relevant information on our wiki. (note: currently moving everything from mission23 which requires editing of links, etc.  please be patient with me, i am under **constant** attack. -m.)
