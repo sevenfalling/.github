@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> that earthquake bring you here? more are coming. [learn more](https://github.com/sevenfalling/ringing_bell)
+
 # welcome
 this is the github organization for Creator's mission number 23 for life on earth.  this organization, and it's associated repositories, is maintained by the Servants of the Creator and will be the primary online presence for the Servants of the Creator for the duration of the Creators mission number 23.
 
