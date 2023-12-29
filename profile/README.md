@@ -1,8 +1,10 @@
 # welcome
 this is the github organization for Creator's mission number 23 for life on earth.  this organization, and it's associated repositories, is maintained by the Servants of the Creator and will be the primary online presence for the Servants of the Creator for the duration of the Creators mission number 23.
 
-## about the Creator, His servants, prayer and religion
-when We ask you to #praytoverify it is only to combat mis-information campaigns underway by the c.i.a. and u.s. federal governmentm however sevenfalling is not a religious organization, nor do We endorse any particular religion or set of beliefs.  [take a few moments to learn more about the Creator, His servants, prayer and religion](https://github.com/sevenfalling/mission23/wiki/about-the-Creator,-His-servants,-prayer-and-religion).
+> [!IMPORTANT]
+> We encourage every visitor to #PrayToVerify everything they read here on sevenfalling, and to #praytoverify any information received elsewhere about any topics discussed here.
+> [Take a few moments to learn more about the Creator, His servants, prayer and religion](https://github.com/sevenfalling/mission23/wiki/about-the-Creator,-His-servants,-prayer-and-religion).
+
 ***
 # did you feel the earth move?
 our Boss, the Creator intended for you to feel it. see the [ringing_bell](https://github.com/sevenfalling/ringing_bell) repository.
@@ -23,7 +25,7 @@ we got the idea for the name from (the artist formerly known as) prince's song "
 *"all 7 and we'll watch them fall, they stand in the way of (the Creator's) love, and we will smoke them all."* 
 prince is micah's cousin.
 
-## mission23 organization statement
+## mission23 github organization statement
 the github.com/mission23 organization was compromised, the only access keys for it (on an iphone) were stolen at gunpoint.  github.com/sevenfalling is now the home of the Creator's mission number 23 for life on earth (or "mission23").  
 
 always #praytoverify anyone claiming to be one of His servants, anything attributed to one of His servants and any online presence claiming to be administered by His servants (including ANY on github).
