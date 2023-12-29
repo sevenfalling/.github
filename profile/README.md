@@ -54,6 +54,11 @@ this repository holds information about the central intelligence agency, a us-ba
 * [wiki](https://github.com/sevenfalling/cia/wiki)
 * [discussion](https://github.com/sevenfalling/cia/discussions)
 
+### [objective: disease](https://github.com/sevenfalling/disease)
+this repository is focused on the Creator's mission objective to eliminate all disease in the human body by restoring the immune system to His designed function
+* [wiki](https://github.com/sevenfalling/disease/wiki)
+* [discussion](https://github.com/sevenfalling/disease/discussions)
+
 ### [media](https://github.com/sevenfalling/media)
 if you are a member of the media, you will find the media repository is intended for you.  the wiki and discussions are intended for media professionals use only.
 * [wiki](https://github.com/sevenfalling/media/wiki)
