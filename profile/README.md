@@ -7,10 +7,6 @@ this is the github organization for Creator's mission number 23 for life on eart
 > [!TIP]
 > if you find something hard to believe simply #praytoverify.  uncomfortable? take a few moments to learn more about the Creator, His servants, prayer and religion, [here](https://github.com/sevenfalling/mission23/wiki/about-the-Creator,-His-servants,-prayer-and-religion).
 
-***
-# did you feel the earth move?
-our Boss, the Creator intended for you to feel it. see the [ringing_bell](https://github.com/sevenfalling/ringing_bell) repository.
-
 # our current priorities
 * [The Massacre of Mount Calvary Baptist Church in Lexington, KY](https://github.com/sevenfalling/mission23/wiki/The-Massacre-of-Mount-Calvary-Baptist-Church)
 * [The AIDS-cure Genocide](https://github.com/sevenfalling/tag)
