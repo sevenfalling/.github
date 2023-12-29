@@ -1,3 +1,9 @@
+# welcome
+this is the github organization for Creator's mission number 23 for life on earth.  this organization, and it's associated repositories, is maintained by the Servants of the Creator and will be the primary online presence for the Servants of the Creator for the duration of the Creators mission number 23.
+
+## about the Creator, His servants, prayer and religion
+when We ask you to #praytoverify it is only to combat mis-information campaigns underway by the c.i.a. and u.s. federal governmentm however sevenfalling is not a religious organization, nor do We endorse any particular religion or set of beliefs.  [take a few moments to learn more about the Creator, His servants, prayer and religion](https://github.com/sevenfalling/mission23/wiki/about-the-Creator,-His-servants,-prayer-and-religion).
+***
 # did you feel the earth move?
 our Boss, the Creator intended for you to feel it. see the [ringing_bell](https://github.com/sevenfalling/ringing_bell) repository.
 
@@ -7,11 +13,6 @@ our Boss, the Creator intended for you to feel it. see the [ringing_bell](https:
      - [wiki](https://github.com/sevenfalling/tag/wiki)
      - [discussion](https://github.com/sevenfalling/tag/discussions)
 
-# welcome
-this is the github organization for Creator's mission number 23 for life on earth.  this organization, and it's associated repositories, is maintained by the Servants of the Creator and will be the primary online presence for the Servants of the Creator for the duration of the Creators mission number 23.
-
-## about the Creator, His servants, prayer and religion
-sevenfalling is not a religious organization, nor do We endorse any particular religion or set of beliefs.  when We ask you to #praytoverify it is only to combat mis-information campaigns underway by the c.i.a. and u.s. federal government.  [take a few moments to learn more about the Creator, His servants, prayer and religion](https://github.com/sevenfalling/mission23/wiki/about-the-Creator,-His-servants,-prayer-and-religion).
 
 # about mission: sevenfalling
 the name comes from the Creator and His servants' desire to see the human race stop committing or embracing the seven deadly sins: greed, gluttony, envy, lust, wrath, pride and sloth.  
