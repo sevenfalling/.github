@@ -58,6 +58,3 @@ this repository holds information about the central intelligence agency, a us-ba
 if you are a member of the media, you will find the media repository is intended for you.  the wiki and discussions are intended for media professionals use only.
 * [wiki](https://github.com/sevenfalling/media/wiki)
 * [discussions](https://github.com/sevenfalling/media/discussions)
-
-# press & media information
-information for journalists and other media professionals is located [here](https://github.com/sevenfalling/media).
