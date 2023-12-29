@@ -47,7 +47,7 @@ a document repository for the massacre of His servant micah's lifelong church, m
 * [wiki](https://github.com/sevenfalling/mount_calvary/wiki)
 
 ### [tag](https://github.com/sevenfalling/tag)
-this repository will used to gather and distribute intelligence about the The AIDS-cure Genocide started by Gilead Sciences which includes the cia's massacres of houses of worship.
+this repository will used to gather and distribute intelligence about the The AIDS-cure Genocide started by [gilead sciences](https://www.gilead.com/) which includes the cia's massacres of houses of worship.
 * [wiki](https://github.com/sevenfalling/tag/wiki)
 * [discussion](https://github.com/sevenfalling/tag/discussions)
 
